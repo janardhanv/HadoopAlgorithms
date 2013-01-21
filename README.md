@@ -1,6 +1,3 @@
-HadoopAlgorithms
-================
-
 Hadoop algorithms implementation for my MSC' thesis
 ================
 
