@@ -1,0 +1,19 @@
+Job-1 for Mapper-1 (Sorting Data)
+Simulation Time=24361msec
+
+Job-2 for Mapper-2 (Collect Top-10)
+Simulation Time=23640msec
+
+---------TOP-K RECORDS RESULTS---------
+---------------------------------------
+
+ID=7533 Score = 209.30205289127252
+ID=9556 Score = 9794.314233073066
+ID=9933 Score = 10432.973850315379
+ID=9923 Score = 10494.810282116183
+ID=9994 Score = 10651.700679461552
+ID=9968 Score = 10807.336777638027
+ID=9657 Score = 11080.947282541292
+ID=9997 Score = 11495.430942632724
+ID=9950 Score = 11683.505504973378
+ID=9883 Score = 11799.215224190622
